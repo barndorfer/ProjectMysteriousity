@@ -43,4 +43,4 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-ruby
+ruby "2.0.0"
